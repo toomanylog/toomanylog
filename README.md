@@ -45,3 +45,13 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=toomanylog&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github.com/toomanylog/toomanylog/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=toomanylog&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
