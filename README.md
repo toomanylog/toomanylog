@@ -15,6 +15,21 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Shopify-7AB55C?style=flat-square&logo=shopify&logoColor=white" alt="Shopify" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/-Railway-3B3054?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
+  <img src="https://img.shields.io/badge/-Neon-1F2937?style=flat-square&logo=data:image/svg+xml;base64,...&logoColor=white" alt="Neon" />
+  <img src="https://img.shields.io/badge/-AWS%20SES-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SES" />
+  <img src="https://img.shields.io/badge/-AWS%20S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS S3" />
+  <img src="https://img.shields.io/badge/-AWS%20Lightsail-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS Lightsail" />
+  <img src="https://img.shields.io/badge/-AWS%20SNS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS SNS" />
+  <img src="https://img.shields.io/badge/-NowPayments-000000?style=flat-square&logo=data:image/svg+xml;base64,...&logoColor=white" alt="NowPayments API" />
+  <img src="https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram Bot" />
+  <img src="https://img.shields.io/badge/-Discord%20Bot-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord Bot" />
+  <img src="https://img.shields.io/badge/-CRM%20%2F%20Wiki%20Builder-4CAF50?style=flat-square" alt="CRM & Wiki" />
 </p>
 
 ## 📊 GitHub Statistics
@@ -41,6 +56,16 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=toomanylog&repo=random-project-2&theme=tokyonight" alt="Project 2" />
   </a>
 </p>
+
+## 🧠 Other Skills
+
+* 🔄 Intégration complète avec **Shopify** (CMS, Storefront API, headless e-commerce).
+* 🌐 Déploiement frontend sur **Netlify**, backend sur **Render**, **Railway**.
+* 💾 Gestion de bases de données avec **Neon**, **SQL**, **Firebase RTDB** et **Firestore**.
+* ☁️ Services cloud avec **AWS SES**, **S3**, **Lightsail**, **SNS**.
+* 🤖 Création de bots personnalisés pour **Telegram** & **Discord**.
+* 💳 Paiements cryptos via **NowPayments API**.
+* 🧩 Développement de **CRM internes** & **Wikis**.
 
 ## 📈 Contribution Graph
 
