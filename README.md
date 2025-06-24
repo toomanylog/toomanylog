@@ -4,7 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
 </p>
 
----
 
 ## 🛠️ Technologies & Tools
 
@@ -49,7 +48,6 @@
   <img src="https://img.shields.io/badge/-CRM_%2F_Wiki_Builder-4CAF50?style=for-the-badge" alt="CRM & Wiki" />
 </p>
 
----
 
 ## 📊 GitHub Statistics
 
@@ -65,7 +63,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toomanylog&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
 
 ## 🌟 Featured Projects
 
@@ -78,7 +75,6 @@
   </a>
 </p>
 
----
 
 ## 🧠 Other Skills
 
@@ -90,7 +86,6 @@
 - 💳 Paiements via **NowPayments API**
 - 🧩 Développement de **CRM internes** & **Wikis**
 
----
 
 ## 📈 Contribution Graph
 
